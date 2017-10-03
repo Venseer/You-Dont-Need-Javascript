@@ -43,6 +43,7 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 1. [Treeview](#Treeview)
 1. [Twitter Heart Animation](#Twitter)
 1. [Dynamic Image Colorizing](#ImageColorizing)
+1. [Ripple Effect](#RippleEffect)
 
 
 ## <a id="Accordion"></a>Accordion / Toggle
@@ -50,6 +51,7 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 [<img src="images/accordion.png" height="230" title="Demo 1">](http://www.mraffaele.com/labs/css-only-accordions/)
 [<img src="images/toggler.png" height="230" title="Demo 2">](http://codepen.io/cristina-silva/pen/pyXQrj)
 [<img src="images/toggler2.png" height="230" title="Demo 3">](http://codepen.io/PaulZi/pen/zBbVvV)
+[<img src="images/accordion.gif" height="230" title="Demo 4">](http://codepen.io/ekrof/pen/YqmXdQ)
 
 **[⬆ back to top](#quick-links)**
 
@@ -118,6 +120,7 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 [<img src="images/tooltips.png" height="230" title="Demo 1">](https://codepen.io/guuslieben/pen/gabQWM)
 [<img src="images/tooltips2.png" height="230" title="Demo 2">](http://codepen.io/cristina-silva/pen/XXOpga)
 [<img src="images/info-on-hover.png" height="230" title="Demo 3">](http://codepen.io/SitePoint/pen/akAmPw)
+[<img src="images/tooltips.gif" height="230" title="Demo 4">](http://codepen.io/ekrof/pen/YqmXdQ)
 
 **[⬆ back to top](#quick-links)**
 
@@ -256,7 +259,16 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 
 ## <a id="ImageColorizing"></a>Dynamic Image Colorizing
 
-[<img src="images/imagecolorizing.png"  height="230" title="Demo">](http://codepen.io/noahblon/pen/ZbjmbK)
+[<img src="images/imagecolorizing.png" height="230" title="Demo">](http://codepen.io/noahblon/pen/ZbjmbK)
+
+**[⬆ back to top](#quick-links)**
+
+***
+&nbsp;
+
+## <a id="RippleEffect"></a>Ripple Effect
+
+[<img src="images/ripple-effect.gif" height="230" title="Ripple EffectDemo">](http://mladenplavsic.github.io/css-ripple-effect/)
 
 **[⬆ back to top](#quick-links)**
 
